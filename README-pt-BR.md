@@ -78,16 +78,6 @@ Eu estou usando o especial Markdown do Github, incluindo a lista de tarefas para
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-## Siga-me
-Eu sou um engenheiro de Software vietnamita que é realmente apaixonado e quer trabalhar nos EUA.
-
-Quanto eu trabalhei durante este plano? Aproximadamente 4 horas/noite após um dia longo no trabalho.
-
-Eu estou na jornada.
-
-| ![Nam Vu - Top-down learning path: machine learning for software engineers](http://sv1.upsieutoc.com/2016/10/08/331f241c8da44d0c43e9324d55440db6.md.jpg)|
-|:---:|
-| USA as heck |
 
 ## Não sinta que não é inteligente o bastante
 Fico desencorajado por livros e cursos que me dizem que o quanto antes eu puder, cálculo multivariável, inferencial e álgebra linear são pré-requisitos. Ainda não sei como começar...
